@@ -2,7 +2,7 @@
 
 ```python
 def about_me():
-  name = "Hirislaye Batista"
+  name = "Hirislayne Batista"
   job = "Electrical Engineering Student"
   location = "São Luís, Maranhão, Brazil"
   hobbie = "play drums"
